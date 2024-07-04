@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from SriLanka</h3>
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/386/188/png-clipart-programmer-programming-language-software-developer-computer-programming-sublime-text-computer-cartoon-furniture-reading.png" alt="Lakshan Maduwantha" width="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:880/1*MT39vYXitBFe1-y_wxHJ_A.jpeg" alt="Lakshan Maduwantha" width="200"/>
 </p>
 
 - 🔭 I’m currently working on **Machine Learning & Blockchain Based Project**
