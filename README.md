@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshan Maduwantha</h1>
 <h3 align="center">A passionate Full Stack Developer from SriLanka</h3>
 
+<href a= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-clip-art-programmer-programming-language-openclipa-6215943%2F&psig=AOvVaw1qlQanGRwA7Xz4xvpz4KCe&ust=1720180431933000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjT49CpjYcDFQAAAAAdAAAAABAE >
+
 - 🔭 I’m currently working on **Machine Learning & Blockchain Based Project**
 
 - 🌱 I’m currently learning **Python, Laravel**
