@@ -5,6 +5,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:880/1*MT39vYXitBFe1-y_wxHJ_A.jpeg" alt="Lakshan Maduwantha" width="200"/>
 </p>
 
+- This is My Second Github Account. Previous One Was Denied the Access
+  
 - 🔭 I’m currently working on **Machine Learning & Blockchain Based Project**
 
 - 🌱 I’m currently learning **Python, Laravel**
